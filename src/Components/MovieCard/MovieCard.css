@@ -1,0 +1,23 @@
+.card {
+    max-width: 300px;
+    height: 720px;
+    margin: 10% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #101010 !important;
+    border-radius: 12px !important;
+}
+.cardmedia {
+    height: 400px;
+    object-fit: fill;
+}
+.cardcontent {
+    color: white !important;
+}
+.css-1knaqv7-MuiButtonBase-root-MuiButton-root {
+    color: white !important;
+}
+.css-1knaqv7-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: rgb(43, 43, 43) !important;
+}

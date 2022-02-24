@@ -1,0 +1,9 @@
+@font-face
+{
+    font-family: HeavyMetal;
+    src: url(./HeavyMetal.ttf);
+}
+.title
+{
+    font-family: HeavyMetal;
+}
